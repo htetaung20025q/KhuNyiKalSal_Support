@@ -55,7 +55,7 @@ export default function Footer({ t, onOpenLegal }) {
             <a href="https://www.facebook.com/share/1BaGjLaNNv/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
               <FaFacebook className="w-6 h-6" />
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
+            <a href="https://www.tiktok.com/@khu.nyi.kal.sal?_r=1&_t=ZS-990jtZoL5Am" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
               <FaTiktok className="w-6 h-6" />
             </a>
           </div>

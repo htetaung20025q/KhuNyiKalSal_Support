@@ -11,7 +11,7 @@ export default function Hero({ t, onOpenDownload, onOpenFirstAid }) {
 
       <div className="max-w-7xl mx-auto w-full flex flex-col items-start text-left relative z-10">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-600/20 border border-red-500/30 text-red-400 text-xs font-black uppercase tracking-widest mb-4">
-          <span className="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
+          <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
           24/7 National Emergency Service
         </div>
 
