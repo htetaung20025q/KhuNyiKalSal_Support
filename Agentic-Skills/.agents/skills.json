@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "version": "2.0.0",
+  "description": "Antigravity SDLC OS v2 - Multi-Agent Skills Registry",
+  "skills": [
+    {
+      "name": "brainstorm",
+      "path": "skills/brainstorm/SKILL.md",
+      "command": "/brainstorm",
+      "phase": 0
+    },
+    {
+      "name": "analyze",
+      "path": "skills/analyze/SKILL.md",
+      "command": "/analyze",
+      "phase": 1
+    },
+    {
+      "name": "proj-init",
+      "path": "skills/proj-init/SKILL.md",
+      "command": "/proj-init",
+      "phase": 2
+    },
+    {
+      "name": "ui-ux",
+      "path": "skills/ui-ux-promax/SKILL.md",
+      "command": "/ui-ux",
+      "phase": 3
+    },
+    {
+      "name": "design",
+      "path": "skills/system-design/SKILL.md",
+      "command": "/design",
+      "phase": 4
+    },
+    {
+      "name": "plan",
+      "path": "skills/plan/SKILL.md",
+      "command": "/plan",
+      "phase": 5
+    },
+    {
+      "name": "build",
+      "path": "skills/code-generation/SKILL.md",
+      "command": "/build",
+      "phase": 6
+    },
+    {
+      "name": "test",
+      "path": "skills/test/SKILL.md",
+      "command": "/test",
+      "phase": 7
+    },
+    {
+      "name": "debug",
+      "path": "skills/auto-debug/SKILL.md",
+      "command": "/debug",
+      "phase": 8
+    },
+    {
+      "name": "publish",
+      "path": "skills/publish/SKILL.md",
+      "command": "/publish",
+      "phase": 9
+    }
+  ]
+}
